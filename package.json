@@ -1,0 +1,11 @@
+{
+  "name": "SQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/djseku/SQL.git",
+  "author": "Sergi <sergimima@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql8": "^2.17.3"
+  }
+}
