@@ -27,7 +27,7 @@ async function q(sql, parametros){
 
 q("select * from Customers limit 2", []).then(rows =>{
     console.log(rows)
-}).catch(err => {
+}).catch(err => { 
     console.log(err)
 }).finally(()=> {
     console.log("this appears always")
