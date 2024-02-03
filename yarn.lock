@@ -817,6 +817,11 @@ open@^8.0.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
+oracledb@^6.3.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/oracledb/-/oracledb-6.3.0.tgz#998694f76ae0b7a30f95c9ac7bfcfd84480eca6d"
+  integrity sha512-fr3U66QxgGXb5cs/ozLBQU50TMbZcBQEWvSaj2rJAXG8KRrsZcGOK8JTlZL1yJHeW8cSjOm6n/wTw3SJksGjDg==
+
 packet-reader@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/packet-reader/-/packet-reader-1.0.0.tgz#9238e5480dedabacfe1fe3f2771063f164157d74"
